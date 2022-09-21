@@ -1,0 +1,11 @@
+{">" : [
+        {"var":"nowVolume"},
+        {"/":[
+            {"var":["a"]},
+            {"+": [
+                {"var": "prewwwVolume"},
+                {"var": "prewwolume"},
+                {"var": "prewVolume"}
+            ]}
+        ]}
+    ]}
